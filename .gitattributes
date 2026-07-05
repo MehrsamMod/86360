@@ -1,0 +1,15 @@
+# Normalize line endings
+* text=auto
+
+# Force C++ files to be treated correctly
+*.cpp text
+*.h text
+
+# Binary files
+*.exe binary
+*.dll binary
+*.bin binary
+
+# Optional: treat custom formats as binary
+*.jit binary
+*.ir binary

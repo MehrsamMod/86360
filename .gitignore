@@ -1,0 +1,29 @@
+# Dev-C++ project files
+*.dev
+*.layout
+
+# Build output
+/bin/
+/build/
+/obj/
+*.exe
+*.o
+*.obj
+
+# Logs and debug files
+*.log
+*.txt~
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# IDE folders (optional)
+.vscode/
+.idea/
+
+# JIT / emulator custom files
+*.win
+*.jit
+*.state
+*.cache
