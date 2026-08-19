@@ -6,7 +6,7 @@ This is **NOT** a full PowerPC JIT. For an more working PowerPC JIT Check out <a
 
 86360 is a **PowerPC Just-In-Time (JIT) compiler** written in C++.
 
-It focuses on translating PowerPC instructions into x86-64 machine code using AsmJit.
+It focuses on translating PowerPC instructions into x86-64 machine code
 
 ---
 
@@ -55,13 +55,7 @@ This JIT is not complete and does not yet support full Xbox 360 game execution.
 
 ##  Build Information
 
-- Language: C++
-- Standard: C++20 (GNU C++2a)
-- Compiler: TDM-GCC 9.2.0
-- Platform: Windows 64-bit
-- IDE: Dev-C++
-
----
+86360 uses C++20
 
 ##  Third-Party
 
@@ -78,6 +72,6 @@ It is not affiliated with Microsoft or Xbox.
 
 ---
 
-##  Author
+## License
 
-Created by MehrsamMod with ❤️
+86360 uses the **MIT License**. For more information see LICENSE
