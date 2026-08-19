@@ -1,3 +1,7 @@
+## NOTE
+
+This is **NOT** a full PowerPC JIT. For an more working PowerPC JIT Check out <a href="https://github.com/MehrsamMod/Halton">Halton</a>
+
 # 86360 – PowerPC JIT for Xbox 360 Emulator
 
 86360 is a **PowerPC Just-In-Time (JIT) compiler** written in C++.
